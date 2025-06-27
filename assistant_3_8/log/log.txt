@@ -1,0 +1,11 @@
+[2024/05/22 14:54:21]: Este es un mensaje de log.
+[2024/05/22 02:46:41]: Este es un mensaje de log.
+[2024/05/22 02:36:57]: Este es un mensaje de log.
+[2024/05/22 02:36:54]: Este es un mensaje de log.
+[2024/05/22 02:36:43]: Este es un mensaje de log.
+[2024/05/22 01:30:06]: Este es un mensaje de log.
+[2024/05/21 01:41:50]: Este es un mensaje de log.
+[2024/05/21 01:41:39]:Este es un mensaje de log.
+2024/05/21 01:41:15 - Este es un mensaje de log.
+Este es un mensaje de log2.
+Este es un mensaje de log.
